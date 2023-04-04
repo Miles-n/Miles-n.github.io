@@ -1,6 +1,12 @@
 h2,h3,h4{
     text-align: center;
     color: grey;
-    font-family: 'Franklin Gothic Medium'
-
+    font-family: 'Franklin Gothic Medium';
+    font-weight: '20';
+    font-size: 25px;
 }
+h1{
+    text-align: center;
+}
+body {
+    background-color: darkgray;}
