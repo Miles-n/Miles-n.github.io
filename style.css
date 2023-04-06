@@ -10,3 +10,8 @@ h1{
 }
 body {
     background-color: darkgray;}
+
+ul.a {
+    list-style-type: circle;
+    font-size: 25px;
+  }
