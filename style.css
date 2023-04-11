@@ -14,10 +14,13 @@ body {
 ul.a {
     list-style-type: circle;
     font-size: 25px;
+    color: rgb(45, 45, 45);
+    font-family: 'Franklin Gothic Medium';
+    font-weight: '10';
   }
 p{
     text-align: center;
-    color: black;
+    color: rgb(45, 45, 45);
     font-size: 20;
 }
 #1{
